@@ -7,7 +7,10 @@
 		{
 			"Name": "ShopUI",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CommonUI"
+			]
 		}
 	],
 	"Plugins": [
