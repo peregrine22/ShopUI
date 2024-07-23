@@ -4,7 +4,10 @@
 /DerivedDataCache
 /.vscode
 .vscode
+.vsconfig
 .vs
+.idea
+/.idea
 *.VC.db
 *.opensdf
 *.opendb
